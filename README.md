@@ -71,15 +71,3 @@ test $ : history
 
 ## 👤 Author
 Gaurav Patel
-Embedded Software Engineer | C++ | Systems Programming
-
-## 📜 License
-This project is open-source and free to use for learning and experimentation.
----
-
-If you want, I can also:
-- Add **badges (C++17, platform, license)**  
-- Rewrite this as a **resume-optimized project description**
-- Convert it into an **OOP-based shell**  
-
-Just say the word 🔥
